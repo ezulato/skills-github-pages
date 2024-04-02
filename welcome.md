@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Blog
 
 _Some useful tips I learned during the way._
 
